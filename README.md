@@ -1,4 +1,4 @@
-# A Quick Product Landing Page | [Demo](https://mrsohail.one/project/demo/quick-product-landing-page/)
+# A Quick Product Landing Page | [Demo](https://mrsohail.one/projects/demos/quick-product-landing-page/)
 
 ![Screenshot](https://user-images.githubusercontent.com/7429069/127449527-ed071827-684b-4746-bfb7-9928a8b0b12b.png)
 
@@ -14,5 +14,5 @@ A quick product landing page, CSS only, fully responsive with "Dark Mode" & "Lig
 **No permission needed (though attribution is appreciated!🥰)**
 
 
-**Demo:** [Live demo](https://mrsohail.one/project/demo/quick-product-landing-page/) <br>
+**Demo:** [Live demo](https://mrsohail.one/projects/demos/quick-product-landing-page/) <br>
 **Clone:** `https://github.com/sohailsarwar101/A-Quick-Product-Landing-Page.git`
