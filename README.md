@@ -1,5 +1,8 @@
 # A Quick Product Landing Page
 
+![Screenshot](https://user-images.githubusercontent.com/7429069/127449527-ed071827-684b-4746-bfb7-9928a8b0b12b.png)
+
+
 
 A quick product landing page, CSS only, fully responsive with "Dark Mode" & "Light Mode" enabled. Color modes are responsive to default browser mode and user choice as well.
 
